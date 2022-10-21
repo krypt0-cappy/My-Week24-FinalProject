@@ -1,0 +1,6 @@
+region                  = "us-east-1"
+# project_name            = "Week-24-FinalProject"
+vpc_cidr                = "10.0.0.0/16"
+instance_type           = "t3.micro"
+key_name                = "krypt0_24_keypair"
+# image_id                = "ami-026b57f3c383c2eec"
